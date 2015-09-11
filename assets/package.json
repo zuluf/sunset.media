@@ -1,0 +1,16 @@
+{
+  "name": "sunset.media",
+  "version": "1.0.0",
+  "description": "Sunset Media",
+  "repository": "git@github.com:zuluf/sunset.media.git",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-less": "3.0.3",
+    "gulp-livereload": "^3.8.0",
+    "gulp-minify-css": "1.2.1",
+    "gulp-rename": "1.2.2",
+    "gulp-uglifyjs": "0.6.2",
+    "gulp-util": ">=0.10",
+    "less-plugin-clean-css": "1.5.1"
+  }
+}

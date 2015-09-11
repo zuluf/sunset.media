@@ -1,0 +1,78 @@
+1442012246.4245 Your config file is missing!: config
+1442012246.427 Unauthorized: stdClass Object
+(
+    [http_host] => sunset.demo
+    [http_user_agent] => Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+    [server_port] => 80
+    [request_uri] => /
+    [remote_addr] => 127.0.0.1
+    [content_type] => 
+    [request_method] => GET
+    [query_string] => 
+    [ip_address] => 127.0.0.1
+)
+
+1442012246.4361 Your config file is missing!: config
+1442012246.4418 database: Could not connect to database: database config missing
+1442012246.4421 SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';: error query
+1442012246.4431 database: Insert: 
+1442012414.626 Your config file is missing!: config
+1442012414.6384 database: Could not connect to database: database config missing
+1442012414.6388 error query: SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';
+1442012414.6414 database: Insert: 
+1442012419.1109 Your config file is missing!: config
+1442012419.1326 database: Could not connect to database: database config missing
+1442012419.1333 error query: SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';
+1442012419.1348 database: Insert: 
+1442012422.6297 Your config file is missing!: config
+1442012422.6439 database: Could not connect to database: database config missing
+1442012422.645 error query: SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';
+1442012422.6464 database: Insert: 
+1442012425.9596 Your config file is missing!: config
+1442012425.9737 database: Could not connect to database: database config missing
+1442012425.9744 error query: SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';
+1442012425.9758 database: Insert: 
+1442012431.2823 Your config file is missing!: config
+1442012431.292 database: Could not connect to database: database config missing
+1442012431.2925 error query: SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';
+1442012431.2936 database: Insert: 
+1442012498.6629 Your config file is missing!: config
+1442012498.6721 database: Could not connect to database: database config missing
+1442012498.6727 error query: SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';
+1442012498.6741 database: Insert: 
+1442012533.7987 Your config file is missing!: config
+1442012533.8049 database: Could not connect to database: database config missing
+1442012533.8055 error query: SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';
+1442012533.8066 database: Insert: 
+1442012545.807 Your config file is missing!: config
+1442012545.8125 database: Could not connect to database: database config missing
+1442012545.8129 error query: SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';
+1442012545.8139 database: Insert: 
+1442012558.8972 Your config file is missing!: config
+1442012558.9009 database: Could not connect to database: database config missing
+1442012558.9013 error query: SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';
+1442012558.9021 database: Insert: 
+1442012564.4341 Your config file is missing!: config
+1442012564.4408 database: Could not connect to database: database config missing
+1442012564.4413 error query: SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';
+1442012564.4423 database: Insert: 
+1442012565.4067 Your config file is missing!: config
+1442012565.4112 database: Could not connect to database: database config missing
+1442012565.4118 error query: SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';
+1442012565.4129 database: Insert: 
+1442012568.5048 Your config file is missing!: config
+1442012568.5088 database: Could not connect to database: database config missing
+1442012568.5092 error query: SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';
+1442012568.5099 database: Insert: 
+1442012569.6125 Your config file is missing!: config
+1442012569.6169 database: Could not connect to database: database config missing
+1442012569.6176 error query: SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';
+1442012569.619 database: Insert: 
+1442012615.9902 Your config file is missing!: config
+1442012615.9977 database: Could not connect to database: database config missing
+1442012615.9983 error query: SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';
+1442012615.9994 database: Insert: 
+1442012619.4637 Your config file is missing!: config
+1442012619.4686 database: Could not connect to database: database config missing
+1442012619.4691 error query: SELECT * FROM `visitors` WHERE `visitor_ip`  =  '::1' AND `user_agent`  =  'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36';
+1442012619.4701 database: Insert: 

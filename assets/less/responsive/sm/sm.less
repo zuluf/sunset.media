@@ -1,0 +1,68 @@
+/**
+ *  Rules for screen sizes smaller then 480px
+ */
+
+@media all and (max-width: @sm-break) {
+	html {
+		font-size: @font-sm-size;
+	}
+
+	body {
+		background-position: -70px center!important;
+		padding: 0!important;
+
+		#content {
+			// padding: 5px 0 0!important;
+
+			.form {
+				textarea.focus {
+					// height: 100px;
+				}
+			}
+		}
+
+		&.mobile.safari-4 {
+			overflow: visible;
+
+			.form {
+				.actions {
+					a:last-child {
+						i {
+							margin-right: 35px!important;
+						}
+					}
+				}
+			}
+
+			#footer {
+				z-index: 10;
+
+				i {
+					float: left;
+					min-width: 35px!important;
+					margin-left: -5px!important;
+
+					i:hover {
+						opacity: 1!important;
+					}
+
+					&.icon-mysql, &.icon-jquery {
+						margin-left: -10px!important;
+						margin-right: 10px!important;
+					}
+				}
+			}
+		}
+	}
+}
+
+@media all and (max-width: @sm-break) and (orientation: landscape) {
+	body {
+		background-position: -10px center!important;
+		padding: 0!important;
+
+		.message {
+			padding: 5px @padding-20 0!important;
+		}
+	}
+}

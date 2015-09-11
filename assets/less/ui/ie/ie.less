@@ -1,0 +1,71 @@
+body.ie-5, body.ie-6, body.ie-7, body.ie-8 {
+	background: none!important;
+	overflow: hidden!important;
+
+	#background {
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+
+		img {
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			margin: auto;
+			width: 100%;
+			height: 100%;
+		}
+	}
+
+	#content {
+		padding: 0 3%!important;
+		width: 80%!important;
+		margin: 10% 10% 10% 5%!important;
+
+		.form {
+			textarea {
+				padding: 10px;
+				height: 20px;
+				&.focus {
+					height: 170px;
+				}
+			}
+
+			.actions {
+				i {
+					width: 1px!important;
+				}
+
+				a:first-child {
+					margin-left: 60px;
+				}
+
+				a:last-child {
+					margin-left: -90px;
+				}
+			}
+		}
+	}
+
+	#header {
+		padding: 0!important;
+		width: 90%!important;
+		margin: 0 3%!important;
+
+		#home-link {
+			margin-top: 40px;
+
+			.logo, .logo-hover {
+				background: transparent url( '../img/logo-link-small.png' ) no-repeat top center;
+				&:hover {
+					cursor: pointer;
+					background-position: 0px -50px;
+				}
+			}
+		}
+	}
+}

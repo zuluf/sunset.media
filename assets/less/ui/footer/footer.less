@@ -1,0 +1,68 @@
+#footer {
+	bottom: 0;
+	position: relative;
+	width: 100%;
+	float: left;
+	padding: @padding-15 0 0;
+	margin: 0;
+	align-content: center;
+	text-align: center;
+
+	.tech-list {
+		list-style: none;
+		width: auto;
+		margin-left: 0 auto;
+		text-align: center;
+		padding: 5px 0;
+
+		li {
+			display: inline-block;
+			font-size: 2.3em;
+			margin: 1px 5px;
+
+			i {
+				.transparent(0.9);
+				&:hover {
+					.transparent(1);
+				}
+			}
+		}
+
+		// icon fixes
+		.icon-php {
+			float: left;
+			font-size: 1.5em;
+			margin: -18px 0;
+		}
+
+		.icon-js {
+			float: left;
+			margin: -5px 0;
+		}
+
+		.icon-mysql {
+			float: left;
+			font-size: 1.5em;
+			margin: -15px 0;
+		}
+
+		.icon-jquery {
+			float: left;
+			font-size: 2em;
+			margin: -27px 0;
+		}
+
+		.icon-wordpress {
+			margin-bottom: -5px;
+			float: left;
+		}
+	}
+
+	.copyright {
+		width: 100%;
+		float: left;
+		padding: 10px 0;
+		text-align: center;
+		font-size: 0.9em;
+	}
+}

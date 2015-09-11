@@ -1,0 +1,36 @@
+/**
+ *  Rules for screen sizes smaller then 768px
+ */
+@media all and (max-width: @md-break) and (orientation: portrait) {
+	body.mobile {
+		padding: 20px 2%;
+		background-position: left center!important;
+
+		#content {
+			// padding: 120px 0 0;
+
+			.form {
+				textarea {
+					&.focus {
+						// height: 170px;
+					}
+				}
+			}
+		}
+	}
+}
+
+@media all and (max-width: @md-break) and (orientation: landscape) {
+	html {
+		font-size: @font-md-size;
+	}
+
+	body {
+		padding: 20px 3%;
+		background-position: left center!important;
+
+		#content {
+			padding: 5px 0 0;
+		}
+	}
+}
