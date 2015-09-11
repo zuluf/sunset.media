@@ -42,6 +42,7 @@ return (object) array (
 );
 ```
 Change the data in the config for your environment variables, create tables from the database folder and you are good to go.
+Important note: always set 0400 permissions on your config files if possible and move them out of the public/www folders on your server.
 
 
 Assets folder contains front-end part of the whole app, and you can build the distribution with these commands (nodejs required):
