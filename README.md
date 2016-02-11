@@ -59,7 +59,7 @@ Use `gulp live` for watching assets/less files change, and automatic build of th
 
 In the assets/fonts/ you can find the font icons for php, js, mysql, jquery logos, that i couldn't find on the web.
 
-If you poke around the javascript, there is a nice trick [bitovi](https://github.com/bitovi/canjs) used for cleaning element bindings, in [assets/js/sunset/Control](https://github.com/zuluf/sunset.media/assets/js/sunset/Control/).
+If you poke around the javascript, there is a nice trick [bitovi](https://github.com/bitovi/canjs) used for cleaning element bindings, in [assets/js/sunset/Control](https://github.com/zuluf/sunset.media/tree/master/assets/js/sunset/Control).
 
 Hope you guys enjoy the code, and find something useful for your apps.
 Cheers :)
